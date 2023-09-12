@@ -56,7 +56,9 @@ O propósito principal deste projeto é estabelecer um repositório de filmes ed
 acesso a esse tipo de material. Além disso, entre os objetivos específicos a serem destacados, temos:
 
 . Capacitar o usuário a avaliar o conteúdo.
+
 . Oferecer informações abrangentes sobre os filmes, como sinopse, avaliações de outros usuários e disponibilidade para assistir.
+
 . Classificar o conteúdo em categorias para simplificar a pesquisa do usuário.
 
 Justificativa:
