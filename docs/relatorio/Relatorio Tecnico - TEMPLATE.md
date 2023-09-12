@@ -1,11 +1,11 @@
 # Informações do Projeto
 `TÍTULO DO PROJETO`  
 
-......  Repositorio de Filmes ......
+ Repositorio de Filmes 
 
 `CURSO` 
 
-......  Analise e Desenvolvimento de Sistemas ......
+ Analise e Desenvolvimento de Sistemas 
 
 ## Participantes
 
@@ -52,8 +52,6 @@ tarefa de acessar e localizar informações pertinentes e valiosas.
 
 ## Objetivos
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
 O propósito principal deste projeto é estabelecer um repositório de filmes educativos que concentre, estruture e depure o conteúdo atualmente disperso pela internet, proporcionando uma única fonte de 
 acesso a esse tipo de material. Além disso, entre os objetivos específicos a serem destacados, temos:
 
@@ -76,7 +74,9 @@ Isso tornaria o processo de encontrar e utilizar esses recursos uma experiência
 
 ## Público-Alvo
 
-Este projeto tem como público-alvo uma ampla gama de pessoas, incluindo estudantes, profissionais atuantes em diversas áreas e até mesmo pessoas que possuem simples curiosidade sobre os temas abordados. Sendo assim, o público-alvo é bastante diverso e abrange desde alunos do ensino médio até profissionais experientes no mercado de trabalho, incluindo homens e mulheres de todas as idades, desde jovens com 18 anos até idosos com mais de 60 anos.
+Este projeto tem como público-alvo uma ampla gama de pessoas, incluindo estudantes, profissionais atuantes em diversas áreas e até mesmo pessoas que possuem simples curiosidade sobre os temas 
+abordados. Sendo assim, o público-alvo é bastante diverso e abrange desde alunos do ensino médio até profissionais experientes no mercado de trabalho, incluindo homens e mulheres de todas as idades, 
+desde jovens com 18 anos até idosos com mais de 60 anos.
  
 # Especificações do Projeto
 
