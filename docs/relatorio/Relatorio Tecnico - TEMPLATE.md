@@ -125,13 +125,13 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | favoritar filmes                   | Não esquecer de ver-los|
-|Usuário do sistema  | ter meu perfil                     | para ver meus favoritos|
-|Usuário do sistema  | Poder deixar sugestões de filmes   | para ver suas avaliações|
-|Usuário do sistema  | ver a avaliação do filme           | para ter certeza do filme|
-|Administrador       | criar pagina favoritos                 | Permitir que possam favoritar filmes |
-|Administrador       | criar pagina de perfil                 | Permitir que possam ter contas |
-|Administrador       | criar pagina de sugestão                 | Permitir que possam dar sugestões |
+|Usuário do sistema  | Favoritar filmes                   | Não esquecer de ver-los |
+|Usuário do sistema  | Ter meu perfil                     | Para ver meus favoritos |
+|Usuário do sistema  | Poder deixar sugestões de filmes   | Para ver suas avaliações |
+|Usuário do sistema  | Ver a avaliação do filme           | Para ter certeza do filme |
+|Administrador       | Criar pagina favoritos             | Permitir que possam favoritar filmes |
+|Administrador       | Criar pagina de perfil             | Permitir que possam ter contas |
+|Administrador       | Criar pagina de sugestão           | Permitir que possam dar sugestões |
 
 ## Requisitos
 
