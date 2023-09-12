@@ -133,18 +133,27 @@ A tabela que segue apresenta os requisitos funcionais do projeto.
 
 ### Requisitos Funcionais
 
-|ID    | Descrição do Requisito  | Prioridade |
-|------|-----------------------------------------|----|
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
+|ID	  |Descrição	                                                                        | Prioridade |
+|-----|-----------------------------------------------------------------------------------|------------|
+|RF-01	| Permitir que o usuário avalie o conteúdo.                                      	| Essencial  |
+|RF-02	| O site deve permitir que os usuários adicionem conteúdo a sua aba de favoritos. | Essencial  |
+|RF-03	| Permitir que os usuários escolham uma ou mais categorias prioritárias de sua                 |
+|      | preferência a serem mostradas. 	                                                | Essencial  |
+|RF-04	| Permitir que os usuários criem uma conta e realizem log in. 	                   | Essencial  |
+|RF-05	| Permitir que os usuários possam sugerir conteúdo para o site.	                  | Essencial  |
+|RF-06	| O site deve disponibilizar uma seção para os filmes mais bem avaliados.	        | Desejável  |
+|RF-07	| O site deve ter uma aba específica para o perfil do usuário. 	                  | Essencial  |
+|RF-08	| Junto de cada conteúdo deve-se acompanhar uma sinopse. 	                        | Essencial  |
 
+### Requisitos nao Funcionais
 
-> Com base nas Histórias de Usuário, enumere os requisitos da sua
-> solução. Classifique esses requisitos em dois grupos:
->
-> Lembre-se que cada requisito deve corresponder à uma e somente uma
-> característica alvo da sua solução. Além disso, certifique-se de que
-> todos os aspectos capturados nas Histórias de Usuário foram cobertos.
+|ID	   | Descrição	                                                                                                                   |Prioridade  |
+|------|------------------------------------------------------------------------------------------------------------------------------|------------|
+RNF-01 |	O site deve ser responsivo permitindo a visualização em qualquer plataforma. Seja ela um dispositivo móvel ou desktop. 	   | Essencial  |
+RNF-02 |	O site deve ser compatível com os principais navegadores do mercado atual (Google Chrome, Opera, Microsoft Edge, Firefox). | Essencial  |
+RNF-03 |	O site deve possuir fácil navegação e equilíbrio no peso de informações dispostas na tela	                                 | Importante |
+RNF-04 |	O sistema deverá operar as suas funções de maneira correta e com rapidez a fim de se ter uma consistência nos dados.	      | Importante |
+RNF-05 | O sistema deve ser desenvolvido para uso pela Internet com metodologia ágil e boas práticas de engenharia de software.     |	Desejável  |
 
 # Projeto da Solução
 
