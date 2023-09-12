@@ -137,8 +137,7 @@ A tabela que segue apresenta os requisitos funcionais do projeto.
 |-----|-----------------------------------------------------------------------------------|------------|
 |RF-01	| Permitir que o usuário avalie o conteúdo.                                      	| Essencial  |
 |RF-02	| O site deve permitir que os usuários adicionem conteúdo a sua aba de favoritos. | Essencial  |
-|RF-03	| Permitir que os usuários escolham uma ou mais categorias prioritárias de sua                 |
-|      | preferência a serem mostradas. 	                                                | Essencial  |
+|RF-03	| Permitir que os usuários escolham uma ou mais categorias prioritárias de sua preferência a serem mostradas. 	                                                | Essencial  |
 |RF-04	| Permitir que os usuários criem uma conta e realizem log in. 	                   | Essencial  |
 |RF-05	| Permitir que os usuários possam sugerir conteúdo para o site.	                  | Essencial  |
 |RF-06	| O site deve disponibilizar uma seção para os filmes mais bem avaliados.	        | Desejável  |
