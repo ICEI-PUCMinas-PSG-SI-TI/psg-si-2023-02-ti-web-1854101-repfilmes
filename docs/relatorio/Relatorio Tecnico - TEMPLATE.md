@@ -90,23 +90,24 @@ desde jovens com 18 anos até idosos com mais de 60 anos.
 
 ## Personas
 
-......  COLOQUE AQUI O SEU TEXTO ......
+1) Nome: Isabella
+Idade: 24
+Gosta de filmes com intuito informativo e seu principal gênero é aventura.
+Isabella é uma jovem de 24 anos que aprecia filmes que ofereçam informações úteis e, ao mesmo tempo, proporcionem aventuras empolgantes. Seu gênero preferido é aventura, demonstrando sua paixão por
+experiências emocionantes e desafios. Ela é uma pessoa curiosa e destemida, sempre em busca de conhecimento e emoção em suas escolhas cinematográficas.
 
-> Relacione as personas identificadas no seu projeto. Lembre-se que 
-> você deve descrever precisamente e de forma personalizada o público alvo do seu projeto. 
-> Você pode incluir uma imagem da ficha de persona desenvolvida. 
->
-> Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina
-> e/ou nos seguintes links:
->
-> **Links Úteis**:
-> - [Persona x Público-alvo](https://flammo.com.br/blog/persona-e-publico-alvo-qual-a-diferenca/)
-> - [O que é persona?](https://resultadosdigitais.com.br/blog/persona-o-que-e/)
-> - [Rock Content](https://rockcontent.com/blog/personas/)
-> - [Hotmart](https://blog.hotmart.com/pt-br/como-criar-persona-negocio/)
-> 
-> **Exemplo de Ficha**
-> ![Exemplo de Persona](images/persona.png)
+3) Nome: Lucas
+Idade: 20
+Gosta de séries com intuito informativo e seu gênero preferido é mistério.
+Lucas tem 20 anos e se interessa por séries que tragam informações e mistérios intrigantes. Seu gênero favorito é o mistério, revelando sua busca por enigmas e desvendamentos. Ele é uma pessoa curiosa,
+analítica e fascinada pelo desconhecido, sempre disposto a explorar as profundezas da mente humana e da ciência.
+
+4) Nome: Sofia
+Idade: 29
+Gosta de conteúdos informativos, mas não é sua prioridade; prefere documentários e seu gênero preferido é romance.
+Sofia é uma mulher de 29 anos que valoriza conteúdos informativos, mas, em sua maioria, opta por documentários e programas que tragam histórias românticas. Ela pode ser descrita como uma pessoa
+equilibrada, que aprecia tanto o aprendizado quanto o entretenimento, mas que tem um gosto especial por histórias de amor e conexões emocionais. Sofia é flexível e aberta a novas experiências, sempre
+disposta a explorar diferentes formas de conhecimento e diversão.
  
 
 ## Histórias de Usuários
