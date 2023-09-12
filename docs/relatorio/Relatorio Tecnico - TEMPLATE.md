@@ -9,14 +9,6 @@
 
 ## Participantes
 
-......  Messias Junio 
-        Diego Alves  
-        Denio Fonseca
-        Kaylan 
-        Matheus Anthony ......
-
-> Inclua a lista dos membros da equipe com seus nomes completos.
->
 > Os membros do grupo são: 
 > - Messias Junio 
 > - Diego Alves  
