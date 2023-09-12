@@ -36,49 +36,47 @@
   
 # Introdução
 
+A incorporação de filmes e séries como complementos aos processos de aprendizado é uma maneira fascinante e agradável de abrir as portas do conhecimento para os estudantes. Isso, de forma alguma,
+substitui o valioso papel desempenhado pelos educadores, pela leitura de livros e por outros métodos de estudo; ao contrário, eles atuam como parceiros enriquecedores. Esse recurso se revela 
+especialmente valioso ao explorar momentos históricos e questões sociais, proporcionando uma compreensão mais profunda.
+
+Contudo, é notório que esses conteúdos frequentemente encontram-se dispersos e desordenados pela vastidão da internet, dificultando tanto o acesso quanto a utilização, tanto para estudantes ávidos por
+conhecimento quanto para profissionais em busca de atualização ou simplesmente curiosos. Diante dessa realidade, surge a necessidade de criar um repositório organizado e criterioso, que reúna e filtre
+esses recursos, tornando-os mais acessíveis e prontamente aplicáveis para todos que desejam enriquecer sua jornada de aprendizado de forma dinâmica e eficaz.
+
+
 ## Problema
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Nesse momento você deve apresentar o problema que a sua aplicação deve
-> resolver. No entanto, não é a hora de comentar sobre a aplicação.
-> Descreva também o contexto em que essa aplicação será usada, se
-> houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de
-> fato existir, pois ainda não é a hora de apresentar requisitos
-> detalhados ou projetos. Utilize como base a ficha inicial de detalhamento do problema.
->
+O desafio que enfrentamos com este projeto reside na caótica dispersão desses conteúdos pela internet, onde frequentemente carecem de filtros de qualidade e se encontram fragmentados, tornando árdua a
+tarefa de acessar e localizar informações pertinentes e valiosas.
 
 ## Objetivos
 
 ......  COLOQUE AQUI O SEU TEXTO ......
 
-> Aqui você deve descrever os objetivos do trabalho indicando que o
-> objetivo geral é desenvolver um software para solucionar o problema
-> apresentado acima. Apresente também pelo menos 2 objetivos
-> específicos dependendo de onde você vai querer concentrar ou aprofundar
-> as características do trabalho.
-> 
-> **Link Útil**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
+O propósito principal deste projeto é estabelecer um repositório de filmes educativos que concentre, estruture e depure o conteúdo atualmente disperso pela internet, proporcionando uma única fonte de 
+acesso a esse tipo de material. Além disso, entre os objetivos específicos a serem destacados, temos:
+
+. Capacitar o usuário a avaliar o conteúdo.
+. Oferecer informações abrangentes sobre os filmes, como sinopse, avaliações de outros usuários e disponibilidade para assistir.
+. Classificar o conteúdo em categorias para simplificar a pesquisa do usuário.
+
+Justificativa:
+
+A integração de filmes como ferramenta complementar de ensino é uma prática cada vez mais difundida em diversas instituições de ensino. Essas produções cinematográficas são empregadas com o intuito de 
+aprofundar a compreensão dos estudantes em relação a conceitos e tópicos abordados em sala de aula. No entanto, a busca por filmes educativos pertinentes representa um desafio considerável, sobretudo
+quando esse conteúdo se encontra disperso pela vastidão da web.
+
+Embora existam várias plataformas de streaming e sites que disponibilizem uma extensa variedade de filmes, não existe uma plataforma específica que compile, organize e depure esse tipo de conteúdo 
+complementar. Isso frequentemente obriga os estudantes a investirem horas na pesquisa e triagem de informações em diversos sites, um processo que pode ser desgastante e consumir um tempo precioso.
+
+Nesse contexto, a criação de um repositório de conteúdo complementar surge como uma solução inestimável para os estudantes. Uma plataforma centralizada permitiria aos alunos acessar de forma direta e
+simplificada uma seleção de filmes educativos pertinentes à sua área de estudo, devidamente categorizados e com informações detalhadas, incluindo avaliações, sinopses e disponibilidade para assistir.
+Isso tornaria o processo de encontrar e utilizar esses recursos uma experiência mais eficaz e gratificante.
 
 ## Público-Alvo
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Descreva quem serão as pessoas que usarão a sua aplicação indicando os
-> diferentes perfis. O objetivo aqui não é definir quem serão os
-> clientes ou quais serão os papéis dos usuários na aplicação. A ideia
-> é, dentro do possível, conhecer um pouco mais sobre o perfil dos
-> usuários: conhecimentos prévios, relação com a tecnologia, relações
-> hierárquicas, etc.
->
-> Adicione informações sobre o público-alvo por meio de uma descrição
-> textual, ou diagramas de personas, mapa de stakeholders, ou como o
-> grupo achar mais conveniente.
-> 
-> **Links Úteis**:
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-> - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
+Este projeto tem como público-alvo uma ampla gama de pessoas, incluindo estudantes, profissionais atuantes em diversas áreas e até mesmo pessoas que possuem simples curiosidade sobre os temas abordados. Sendo assim, o público-alvo é bastante diverso e abrange desde alunos do ensino médio até profissionais experientes no mercado de trabalho, incluindo homens e mulheres de todas as idades, desde jovens com 18 anos até idosos com mais de 60 anos.
  
 # Especificações do Projeto
 
