@@ -201,14 +201,9 @@ Ao clicar em cada filme, será apresentado um card com nome do filme ou série, 
 
 ## Mapa de navegação
 
-......  COLOQUE AQUI O SEU TEXTO OU DIAGRAMA DE NAVEGAÇÃO .......
+> **Diagrama (FLUXO DE TELAS)**
+![FLUXO](https://github.com/ICEI-PUCMinas-PSG-SI-TI/psg-si-2023-02-ti-web-1854101-site-repositorio-de-filmes/assets/131774412/9b5fe5bd-cbb4-47f2-877d-77bee4e4dd06)
 
-> Inclua uma descrição textual ou um diagrama mostrando, sequencialmente, quais ações
-> um usuário deve realizar para utilizar todas as características do seu sistema. 
-
-
-> **Exemplo de Diagrama (opcional, pode ser em texto)**
-> ![Exemplo de Diagrama de Navegação](images/userflow.jpg)
 
 # Conclusões
 
