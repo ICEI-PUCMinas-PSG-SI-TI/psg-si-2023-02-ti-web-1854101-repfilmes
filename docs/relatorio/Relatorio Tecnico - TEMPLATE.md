@@ -209,10 +209,16 @@ Ao clicar em cada filme, será apresentado um card com nome do filme ou série, 
 
 # Conclusões
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Problema: O problema que buscamos solucionar é a falta de sites organizados e bem elaborados, voltados para séries e filmes, que ofereçam conteúdo educacional diversificado. Por essa razão, decidimos
+criar esse projeto.
 
-> Finalize escrevendo um ou dois parágrafos para relembrar o objetivo do projeto, 
-> o que foi possível alcançar e o que ficou para um trabalho futuro, e relembrando
-> as principais dificuldes encontradas e como foi possível contorná-las. 
+Objetivos: Os objetivos deste projeto são desenvolver um site responsivo, com um menu intuitivo, fácil usabilidade para os usuários e ferramentas funcionais.
+Público-alvo: Com base na pesquisa realizada na Sprint 1, identificamos um amplo público-alvo que pode utilizar o site. O principal grupo é composto por pessoas entre 18 e 60 anos, que apreciam 
+assistir a filmes e séries com uma abordagem educativa, visando adquirir ou aprimorar seus conhecimentos.
+
+Justificativa: A justificativa para este projeto é a falta de sites bem estruturados e organizados que ofereçam conteúdo educacional diversificado para séries e filmes. Existe uma demanda por uma
+plataforma responsiva e intuitiva, que atenda a um amplo público-alvo interessado em adquirir conhecimentos enquanto assiste a essas mídias. Além disso, a oportunidade de recursos interativos, como
+listas de filmes curtidos e envio de sugestões, aumenta o engajamento dos usuários. Essa solução preenche uma lacuna no mercado, combinando entretenimento e educação em um único lugar.
+
 
 
