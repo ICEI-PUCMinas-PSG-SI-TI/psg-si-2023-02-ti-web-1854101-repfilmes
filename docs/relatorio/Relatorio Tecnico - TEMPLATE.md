@@ -167,22 +167,36 @@ RNF-05 | O sistema deve ser desenvolvido para uso pela Internet com metodologia 
 
 ## Wireframes
 
-......  INCLUA AQUI OS WIREFRAMES DAS TELAS DA APLICAÇÃO COM UM BREVE DESCRITIVO ......
+`HOME`
+![WIREFRAME4](https://github.com/ICEI-PUCMinas-PSG-SI-TI/psg-si-2023-02-ti-web-1854101-site-repositorio-de-filmes/assets/131774412/c0288772-3fc5-4df9-8f7a-0d30a6edf82b)
 
-> Wireframes são protótipos das telas da aplicação usados em design de interface para sugerir a
-> estrutura de um site web e seu relacionamentos entre suas
-> páginas. Um wireframe web é uma ilustração semelhante ao
-> layout de elementos fundamentais na interface.
-> 
-> **Links Úteis**:
-> - [Ferramentas de Wireframes](https://rockcontent.com/blog/wireframes/)
-> - [Figma](https://www.figma.com/)
-> - [Adobe XD](https://www.adobe.com/br/products/xd.html#scroll)
-> - [MarvelApp](https://marvelapp.com/developers/documentation/tutorials/)
-> 
-> **Exemplo**:
-> 
-> ![Exemplo de Link para Wireframe](images/wireframe-example.png)
+A tela Home permitirá que o usuário faça Login caso já seja cadastrado, contará com uma divisão “Explore” que irá sugerir temas pré-definidos e contará com carrosséis que irão mostrar os filmes e 
+séries mais bem avaliados de cada tema a medida que o usuário rola a tela para baixo.
+
+`PERFIL`
+![WIREFRAME3](https://github.com/ICEI-PUCMinas-PSG-SI-TI/psg-si-2023-02-ti-web-1854101-site-repositorio-de-filmes/assets/131774412/deb4bdf0-45a3-42aa-8c10-1a4d32649f7f)
+
+A tela de perfil irá apresentar ao lado esquerdo os dados do usuário, como seu nome de usuário, bio e comentários e avaliações feitas por ele. Ao lado direito, teremos os filmes favoritos do usuário.
+
+`CADASTRO`
+![WIREFRAME2](https://github.com/ICEI-PUCMinas-PSG-SI-TI/psg-si-2023-02-ti-web-1854101-site-repositorio-de-filmes/assets/131774412/92db089e-8c25-4c30-9a13-4b30b984922c)
+
+A tela de cadastro permite que o usuário se cadastre no site e crie seu username
+
+`SOBRE`
+![WIREFRAME](https://github.com/ICEI-PUCMinas-PSG-SI-TI/psg-si-2023-02-ti-web-1854101-site-repositorio-de-filmes/assets/131774412/55b36b54-0182-4723-b92d-66faed943ad5)
+
+A tela Sobre mostrará a proposta do site.
+
+`SUGESTÕES`
+![WIREFRAME1](https://github.com/ICEI-PUCMinas-PSG-SI-TI/psg-si-2023-02-ti-web-1854101-site-repositorio-de-filmes/assets/131774412/511895d9-9f51-4a06-b887-ddab3190460b)
+
+A tela de sugestão irá permitir que o usuário cadastrado envie uma sugestão de filme ou série para a curadoria do site.
+
+`DESCRIÇÃO`
+![WIREFRAME5](https://github.com/ICEI-PUCMinas-PSG-SI-TI/psg-si-2023-02-ti-web-1854101-site-repositorio-de-filmes/assets/131774412/65949988-d8a1-48b2-a3c0-46891221a614)
+
+Ao clicar em cada filme, será apresentado um card com nome do filme ou série, ano de lançamento, sinopse, nota do IMDB e onde assistir.
 
 
 ## Mapa de navegação
