@@ -82,12 +82,6 @@ desde jovens com 18 anos até idosos com mais de 60 anos.
  
 # Especificações do Projeto
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Apresente uma visão geral do que será abordado nesta parte do
-> documento, enumerando as técnicas e/ou ferramentas utilizadas para
-> realizar a especificações do projeto
-
 ## Personas
 
 1) Nome: Isabella
@@ -166,7 +160,7 @@ https://github.com/ICEI-PUCMinas-PSG-SI-TI/psg-si-2023-02-ti-web-1854101-site-re
 
 > Gerenciamento de Projetos:
 Equipe:
-> > - Messias Junio ●	Scrum Master
+> - Messias Junio ●	Scrum Master
 > - Diego Alves  ●	Product Owner
 > - Denio Fonseca ●	(Desenvolvedor Front End)
 > - Kaylan ●	(Desenvolvedor back End)
