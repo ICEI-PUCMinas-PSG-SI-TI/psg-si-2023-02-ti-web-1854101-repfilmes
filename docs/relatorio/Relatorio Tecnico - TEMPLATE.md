@@ -162,8 +162,16 @@ RNF-05 | O sistema deve ser desenvolvido para uso pela Internet com metodologia 
 
 # Projeto da Solução
 
-......  COLOQUE AQUI O SEU TEXTO ......
-> Descreva brevemente quais tecnologias e/ou frameworks foram utilizados no projeto.
+https://github.com/ICEI-PUCMinas-PSG-SI-TI/psg-si-2023-02-ti-web-1854101-site-repositorio-de-filmes.
+
+> Gerenciamento de Projetos:
+Equipe:
+> > - Messias Junio ●	Scrum Master
+> - Diego Alves  ●	Product Owner
+> - Denio Fonseca ●	(Desenvolvedor Front End)
+> - Kaylan ●	(Desenvolvedor back End)
+> - Matheus Anthony ●	(Desenvolvedor back End)
+
 
 ## Wireframes
 
