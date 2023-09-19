@@ -1,7 +1,7 @@
 # Informações do Projeto
 `TÍTULO DO PROJETO`  
 
- Rep Filmes 
+ REP Filmes 
 
 `CURSO` 
 
