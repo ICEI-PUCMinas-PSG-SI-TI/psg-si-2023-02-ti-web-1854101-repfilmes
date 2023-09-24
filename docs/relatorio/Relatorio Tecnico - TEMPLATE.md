@@ -244,5 +244,10 @@ Justificativa: A justificativa para este projeto é a falta de sites bem estrutu
 plataforma responsiva e intuitiva, que atenda a um amplo público-alvo interessado em adquirir conhecimentos enquanto assiste a essas mídias. Além disso, a oportunidade de recursos interativos, como
 listas de filmes curtidos e envio de sugestões, aumenta o engajamento dos usuários. Essa solução preenche uma lacuna no mercado, combinando entretenimento e educação em um único lugar.
 
+## arquivos pdf
+[matriz csd.pdf](https://github.com/ICEI-PUCMinas-PSG-SI-TI/psg-si-2023-02-ti-web-1854101-site-repositorio-de-filmes/files/12709618/matriz.csd.pdf)
+
+
+
 
 
