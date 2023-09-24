@@ -204,7 +204,8 @@ Ao clicar em cada filme, será apresentado um card com nome do filme ou série, 
 ## Mapa de navegação
 
 > **Diagrama (FLUXO DE TELAS)**
-![FLUXO](https://github.com/ICEI-PUCMinas-PSG-SI-TI/psg-si-2023-02-ti-web-1854101-site-repositorio-de-filmes/assets/131774412/9b5fe5bd-cbb4-47f2-877d-77bee4e4dd06)
+
+![FLUXO](https://github.com/ICEI-PUCMinas-PSG-SI-TI/psg-si-2023-02-ti-web-1854101-site-repositorio-de-filmes/assets/131774412/be174041-d002-4984-9605-340a0bd61aab)
 
 
 # Conclusões
