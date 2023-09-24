@@ -246,6 +246,7 @@ listas de filmes curtidos e envio de sugestões, aumenta o engajamento dos usuá
 
 ## arquivos pdf
 [matriz csd.pdf](https://github.com/ICEI-PUCMinas-PSG-SI-TI/psg-si-2023-02-ti-web-1854101-site-repositorio-de-filmes/files/12709618/matriz.csd.pdf)
+[General Stakeholder Map Team.pdf](https://github.com/ICEI-PUCMinas-PSG-SI-TI/psg-si-2023-02-ti-web-1854101-site-repositorio-de-filmes/files/12709627/General.Stakeholder.Map.Team.Whiteboard.in.Pink.Blue.Green.Spaced.Color.Blocks.Style.pdf)
 
 
 
