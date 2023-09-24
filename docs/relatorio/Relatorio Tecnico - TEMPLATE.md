@@ -143,6 +143,8 @@ A tabela que segue apresenta os requisitos funcionais do projeto.
 |RF-06	| O site deve disponibilizar uma seção para os filmes mais bem avaliados.	        | Desejável  |
 |RF-07	| O site deve ter uma aba específica para o perfil do usuário. 	                  | Essencial  |
 |RF-08	| Junto de cada conteúdo deve-se acompanhar uma sinopse. 	                        | Essencial  |
+|RF-09	| Permitir que os usuários possam conetar conteúdo para o site.	                  | Essencial  |
+|RF-10	| O site deve disponibilizar uma seção para os filmes favoritos do usuario.	      | Desejável  |
 
 ### Requisitos nao Funcionais
 
