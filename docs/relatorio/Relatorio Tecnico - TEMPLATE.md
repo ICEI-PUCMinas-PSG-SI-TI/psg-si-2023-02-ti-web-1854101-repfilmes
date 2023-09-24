@@ -175,15 +175,15 @@ Equipe:
 A tela Home permitirá que o usuário faça Login caso já seja cadastrado, contará com uma divisão “Explore” que irá sugerir temas pré-definidos e contará com carrosséis que irão mostrar os filmes e 
 séries mais bem avaliados de cada tema a medida que o usuário rola a tela para baixo.
 
-`PERFIL`
+`FAVORITOS`
 ![WIREFRAME3](https://github.com/ICEI-PUCMinas-PSG-SI-TI/psg-si-2023-02-ti-web-1854101-site-repositorio-de-filmes/assets/131774412/deb4bdf0-45a3-42aa-8c10-1a4d32649f7f)
 
-A tela de perfil irá apresentar ao lado esquerdo os dados do usuário, como seu nome de usuário, bio e comentários e avaliações feitas por ele. Ao lado direito, teremos os filmes favoritos do usuário.
+Na tela de perfil irá apresentar ao lado esquerdo os dados do usuário, como seu nome de usuário, bio e comentários e avaliações feitas por ele. Ao lado direito, teremos os filmes favoritos do usuário.
 
-`CADASTRO`
+`LOGIN`
 ![WIREFRAME2](https://github.com/ICEI-PUCMinas-PSG-SI-TI/psg-si-2023-02-ti-web-1854101-site-repositorio-de-filmes/assets/131774412/92db089e-8c25-4c30-9a13-4b30b984922c)
 
-A tela de cadastro permite que o usuário se cadastre no site e crie seu username
+A tela de login permite que o usuário entre no site pelo seu username
 
 `SOBRE`
 ![WIREFRAME](https://github.com/ICEI-PUCMinas-PSG-SI-TI/psg-si-2023-02-ti-web-1854101-site-repositorio-de-filmes/assets/131774412/55b36b54-0182-4723-b92d-66faed943ad5)
@@ -199,6 +199,27 @@ A tela de sugestão irá permitir que o usuário cadastrado envie uma sugestão 
 ![WIREFRAME5](https://github.com/ICEI-PUCMinas-PSG-SI-TI/psg-si-2023-02-ti-web-1854101-site-repositorio-de-filmes/assets/131774412/65949988-d8a1-48b2-a3c0-46891221a614)
 
 Ao clicar em cada filme, será apresentado um card com nome do filme ou série, ano de lançamento, sinopse, nota do IMDB e onde assistir.
+
+`LANCAMENTOS`
+![WIREFRAME9](https://github.com/ICEI-PUCMinas-PSG-SI-TI/psg-si-2023-02-ti-web-1854101-site-repositorio-de-filmes/assets/131774412/4d4e5b63-54be-4701-ba70-ab0c7adbf03d)
+
+A tela de lançamentos irá permitir que o usuário veja lançamentos de filme ou série do site.
+
+`COMENTARIOS`
+![WIREFRAME8](https://github.com/ICEI-PUCMinas-PSG-SI-TI/psg-si-2023-02-ti-web-1854101-site-repositorio-de-filmes/assets/131774412/ae7a1f91-2c71-4eb3-85b7-1764b59b0382)
+
+A tela de comentarios irá permitir que o usuário cadastrado envie um comentario de filme ou série para a curadoria do site.
+
+`PERFIL`
+![WIREFRAME7](https://github.com/ICEI-PUCMinas-PSG-SI-TI/psg-si-2023-02-ti-web-1854101-site-repositorio-de-filmes/assets/131774412/01096101-960e-4e2d-8c35-83e829232669)
+
+A tela de perfil irá apresentar ao lado esquerdo os dados do usuário, como seu nome de usuário, bio e comentários e avaliações feitas por ele. Ao lado direito, teremos os filmes favoritos do usuário.
+
+`CADASTROS`
+![WIREFRAME6](https://github.com/ICEI-PUCMinas-PSG-SI-TI/psg-si-2023-02-ti-web-1854101-site-repositorio-de-filmes/assets/131774412/3963c884-944c-499b-bce7-3647141795b7)
+
+A tela de cadastro permite que o usuário se cadastre no site e crie seu username
+
 
 
 ## Mapa de navegação
