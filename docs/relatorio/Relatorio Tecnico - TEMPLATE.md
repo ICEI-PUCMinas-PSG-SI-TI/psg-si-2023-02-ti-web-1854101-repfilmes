@@ -163,15 +163,15 @@ A tabela que segue apresenta os requisitos funcionais do projeto.
 
 |ID	  |Descrição	                                                                        | Prioridade |
 |-----|-----------------------------------------------------------------------------------|------------|
-|RF-02	| O site deve permitir que os usuários adicionem conteúdo a sua aba de favoritos. | Essencial  |
-|RF-03	| Permitir que os usuários escolham uma ou mais categorias prioritárias de sua preferência a serem mostradas. 	                                                | Essencial  |
-|RF-04	| Permitir que os usuários criem uma conta e realizem log in. 	                   | Essencial  |
-|RF-05	| Permitir que os usuários possam sugerir conteúdo para o site.	                  | Essencial  |
+|RF-01	| O site deve permitir que os usuários adicionem conteúdo a sua aba de favoritos. | Essencial  |
+|RF-02	| Permitir que os usuários escolham uma ou mais categorias prioritárias de sua preferência a serem mostradas. 	                                                | Essencial  |
+|RF-03	| Permitir que os usuários criem uma conta e realizem log in. 	                   | Essencial  |
+|RF-04	| Permitir que os usuários possam sugerir conteúdo para o site.	                  | Essencial  |
 |RF-05	| Permitir que os usuários possam comentar conteúdo para o site.	                  | Essencial  |
-|RF-07	| O site deve ter uma aba específica para o perfil do usuário. 	                  | Essencial  |
-|RF-08	| Junto de cada conteúdo deve-se acompanhar uma sinopse. 	                        | Essencial  |
-|RF-07	| O site deve ter uma aba específica para lançamentos          	                  | Essencial  |
-|RF-10	| O site deve disponibilizar uma seção para os filmes favoritos do usuario.	      | Desejável  |
+|RF-06	| O site deve ter uma aba específica para o perfil do usuário. 	                  | Essencial  |
+|RF-07	| Junto de cada conteúdo deve-se acompanhar uma sinopse. 	                        | Essencial  |
+|RF-08	| O site deve ter uma aba específica para lançamentos          	                  | Essencial  |
+|RF-09	| O site deve disponibilizar uma seção para os filmes favoritos do usuario.	      | Desejável  |
 
 ### Requisitos nao Funcionais
 
@@ -198,56 +198,63 @@ Equipe:
 
 ## Wireframes
 
-`HOME`
-![WIREFRAME4](https://github.com/ICEI-PUCMinas-PSG-SI-TI/psg-si-2023-02-ti-web-1854101-site-repositorio-de-filmes/assets/131774412/c0288772-3fc5-4df9-8f7a-0d30a6edf82b)
+`HOME LOGADO E DESLOGADO`
+![homelogado](https://github.com/ICEI-PUCMinas-PSG-SI-TI/psg-si-2023-02-ti-web-1854101-repfilmes/assets/131774412/67aa0719-d3db-4b12-9532-9b3f34abcc9d)
+![Homedeslogado](https://github.com/ICEI-PUCMinas-PSG-SI-TI/psg-si-2023-02-ti-web-1854101-repfilmes/assets/131774412/a39c237c-1f50-416b-806a-1aba36dbe705)
+
 
 A tela Home permitirá que o usuário faça Login caso já seja cadastrado, contará com uma divisão “Explore” que irá sugerir temas pré-definidos e contará com carrosséis que irão mostrar os filmes e 
 séries mais bem avaliados de cada tema a medida que o usuário rola a tela para baixo.
 
-`FAVORITOS`
-![WIREFRAME3](https://github.com/ICEI-PUCMinas-PSG-SI-TI/psg-si-2023-02-ti-web-1854101-site-repositorio-de-filmes/assets/131774412/deb4bdf0-45a3-42aa-8c10-1a4d32649f7f)
-
-Na tela de perfil irá apresentar ao lado esquerdo os dados do usuário, como seu nome de usuário, bio e comentários e avaliações feitas por ele. Ao lado direito, teremos os filmes favoritos do usuário.
-
-`LOGIN`
-![WIREFRAME2](https://github.com/ICEI-PUCMinas-PSG-SI-TI/psg-si-2023-02-ti-web-1854101-site-repositorio-de-filmes/assets/131774412/92db089e-8c25-4c30-9a13-4b30b984922c)
-
-A tela de login permite que o usuário entre no site pelo seu username
-
-`SOBRE`
-![WIREFRAME](https://github.com/ICEI-PUCMinas-PSG-SI-TI/psg-si-2023-02-ti-web-1854101-site-repositorio-de-filmes/assets/131774412/55b36b54-0182-4723-b92d-66faed943ad5)
-
-A tela Sobre mostrará a proposta do site.
-
-`SUGESTÕES`
-![WIREFRAME1](https://github.com/ICEI-PUCMinas-PSG-SI-TI/psg-si-2023-02-ti-web-1854101-site-repositorio-de-filmes/assets/131774412/511895d9-9f51-4a06-b887-ddab3190460b)
-
-A tela de sugestão irá permitir que o usuário cadastrado envie uma sugestão de filme ou série para a curadoria do site.
-
 `DESCRIÇÃO`
-![WIREFRAME5](https://github.com/ICEI-PUCMinas-PSG-SI-TI/psg-si-2023-02-ti-web-1854101-site-repositorio-de-filmes/assets/131774412/65949988-d8a1-48b2-a3c0-46891221a614)
+![DESCRIÇAO](https://github.com/ICEI-PUCMinas-PSG-SI-TI/psg-si-2023-02-ti-web-1854101-repfilmes/assets/131774412/f3fd573b-c1d3-4aab-9e13-6835b98ef68d)
 
 Ao clicar em cada filme, será apresentado um card com nome do filme ou série, ano de lançamento, sinopse, nota do IMDB e onde assistir.
 
-`LANCAMENTOS`
-![WIREFRAME9](https://github.com/ICEI-PUCMinas-PSG-SI-TI/psg-si-2023-02-ti-web-1854101-site-repositorio-de-filmes/assets/131774412/4d4e5b63-54be-4701-ba70-ab0c7adbf03d)
+`CADASTROS`
+![Cadastro](https://github.com/ICEI-PUCMinas-PSG-SI-TI/psg-si-2023-02-ti-web-1854101-repfilmes/assets/131774412/c3913adc-4aa1-4b9a-a6e8-aa31d265dcb8)
 
-A tela de lançamentos irá permitir que o usuário veja lançamentos de filme ou série do site.
+A tela de cadastro permite que o usuário se cadastre no site e crie seu username
 
-`COMENTARIOS`
-![WIREFRAME8](https://github.com/ICEI-PUCMinas-PSG-SI-TI/psg-si-2023-02-ti-web-1854101-site-repositorio-de-filmes/assets/131774412/ae7a1f91-2c71-4eb3-85b7-1764b59b0382)
+`LOGIN`
+![Login](https://github.com/ICEI-PUCMinas-PSG-SI-TI/psg-si-2023-02-ti-web-1854101-repfilmes/assets/131774412/c70aaa81-ab0a-49b8-af79-09fe7ae08da0)
 
-A tela de comentarios irá permitir que o usuário cadastrado envie um comentario de filme ou série para a curadoria do site.
+A tela de login permite que o usuário entre no site pelo seu username
 
 `PERFIL`
-![WIREFRAME7](https://github.com/ICEI-PUCMinas-PSG-SI-TI/psg-si-2023-02-ti-web-1854101-site-repositorio-de-filmes/assets/131774412/01096101-960e-4e2d-8c35-83e829232669)
+![Perfil](https://github.com/ICEI-PUCMinas-PSG-SI-TI/psg-si-2023-02-ti-web-1854101-repfilmes/assets/131774412/2d7edae2-0369-4396-a96c-472b30eb2c29)
 
 A tela de perfil irá apresentar ao lado esquerdo os dados do usuário, como seu nome de usuário, bio e comentários e avaliações feitas por ele. Ao lado direito, teremos os filmes favoritos do usuário.
 
-`CADASTROS`
-![WIREFRAME6](https://github.com/ICEI-PUCMinas-PSG-SI-TI/psg-si-2023-02-ti-web-1854101-site-repositorio-de-filmes/assets/131774412/3963c884-944c-499b-bce7-3647141795b7)
 
-A tela de cadastro permite que o usuário se cadastre no site e crie seu username
+`PERFIL COM FAVORITOS`
+![Perfil](https://github.com/ICEI-PUCMinas-PSG-SI-TI/psg-si-2023-02-ti-web-1854101-repfilmes/assets/131774412/c5298af4-9c2c-4ea2-9847-3cc30fefaa12)
+
+Na tela de perfil irá apresentar ao lado esquerdo os dados do usuário, como seu nome de usuário, bio e comentários e avaliações feitas por ele. Ao lado direito, teremos os filmes favoritos do usuário.
+
+`SUGESTÕES`
+![Sugestão](https://github.com/ICEI-PUCMinas-PSG-SI-TI/psg-si-2023-02-ti-web-1854101-repfilmes/assets/131774412/e91c3a9c-546e-4801-a59c-a930e511718e)
+
+
+A tela de sugestão irá permitir que o usuário cadastrado envie uma sugestão de filme ou série para a curadoria do site.
+
+`COMENTARIOS`
+![Comentarios](https://github.com/ICEI-PUCMinas-PSG-SI-TI/psg-si-2023-02-ti-web-1854101-repfilmes/assets/131774412/0951f51a-e3f9-4974-98ed-de949a42cd83)
+
+A tela de comentarios irá permitir que o usuário cadastrado envie um comentario de filme ou série para a curadoria do site.
+
+`LANCAMENTOS`
+![lancamentos](https://github.com/ICEI-PUCMinas-PSG-SI-TI/psg-si-2023-02-ti-web-1854101-repfilmes/assets/131774412/65c7ca2e-9018-4384-b3bb-9d0a647cffd9)
+
+
+A tela de lançamentos irá permitir que o usuário veja lançamentos de filme ou série do site.
+
+`SOBRE`
+![sobre](https://github.com/ICEI-PUCMinas-PSG-SI-TI/psg-si-2023-02-ti-web-1854101-repfilmes/assets/131774412/bf43c9a1-18d4-4c06-959e-dcb95776a3b5)
+
+A tela Sobre mostrará a proposta do site.
+
+
 
 
 
