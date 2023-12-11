@@ -88,7 +88,7 @@ identificação de novidades dentro do repositório.
 Ao incorporar esses objetivos aprimorados, visamos não apenas fornecer uma fonte centralizada de filmes educativos, mas também criar um ecossistema colaborativo e interativo que atenda às necessidades
 específicas de um público diversificado, fomente o trabalho em grupo e promova uma experiência mais rica e envolvente para todos os envolvidos no processo.
 
-#Justificativa:
+# Justificativa:
 
 A integração de filmes como ferramenta complementar de ensino é uma prática cada vez mais difundida em diversas instituições de ensino. Essas produções cinematográficas são empregadas com o intuito de 
 aprofundar a compreensão dos estudantes em relação a conceitos e tópicos abordados em sala de aula. No entanto, a busca por filmes educativos pertinentes representa um desafio considerável, sobretudo
