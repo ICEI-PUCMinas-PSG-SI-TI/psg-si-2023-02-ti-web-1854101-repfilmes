@@ -148,10 +148,12 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 |Usuário do sistema  | Favoritar filmes                   | Não esquecer de ver-los |
 |Usuário do sistema  | Ter meu perfil                     | Para ver meus favoritos |
 |Usuário do sistema  | Poder deixar sugestões de filmes   | Para ver suas avaliações |
+|Usuário do sistema  | Poder deixar comentarios de filmes | Para ver seus comentarios |
 |Usuário do sistema  | Ver a avaliação do filme           | Para ter certeza do filme |
 |Administrador       | Criar pagina favoritos             | Permitir que possam favoritar filmes |
 |Administrador       | Criar pagina de perfil             | Permitir que possam ter contas |
 |Administrador       | Criar pagina de sugestão           | Permitir que possam dar sugestões |
+|Administrador       | Criar pagina de comentarios        | Permitir que possam comentar |
 
 ## Requisitos
 
@@ -161,15 +163,14 @@ A tabela que segue apresenta os requisitos funcionais do projeto.
 
 |ID	  |Descrição	                                                                        | Prioridade |
 |-----|-----------------------------------------------------------------------------------|------------|
-|RF-01	| Permitir que o usuário avalie o conteúdo.                                      	| Essencial  |
 |RF-02	| O site deve permitir que os usuários adicionem conteúdo a sua aba de favoritos. | Essencial  |
 |RF-03	| Permitir que os usuários escolham uma ou mais categorias prioritárias de sua preferência a serem mostradas. 	                                                | Essencial  |
 |RF-04	| Permitir que os usuários criem uma conta e realizem log in. 	                   | Essencial  |
 |RF-05	| Permitir que os usuários possam sugerir conteúdo para o site.	                  | Essencial  |
-|RF-06	| O site deve disponibilizar uma seção para os filmes mais bem avaliados.	        | Desejável  |
+|RF-05	| Permitir que os usuários possam comentar conteúdo para o site.	                  | Essencial  |
 |RF-07	| O site deve ter uma aba específica para o perfil do usuário. 	                  | Essencial  |
 |RF-08	| Junto de cada conteúdo deve-se acompanhar uma sinopse. 	                        | Essencial  |
-|RF-09	| Permitir que os usuários possam conetar conteúdo para o site.	                  | Essencial  |
+|RF-07	| O site deve ter uma aba específica para lançamentos          	                  | Essencial  |
 |RF-10	| O site deve disponibilizar uma seção para os filmes favoritos do usuario.	      | Desejável  |
 
 ### Requisitos nao Funcionais
