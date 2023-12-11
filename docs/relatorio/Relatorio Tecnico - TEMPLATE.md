@@ -202,57 +202,75 @@ Equipe:
 ![homelogado](https://github.com/ICEI-PUCMinas-PSG-SI-TI/psg-si-2023-02-ti-web-1854101-repfilmes/assets/131774412/67aa0719-d3db-4b12-9532-9b3f34abcc9d)
 ![Homedeslogado](https://github.com/ICEI-PUCMinas-PSG-SI-TI/psg-si-2023-02-ti-web-1854101-repfilmes/assets/131774412/a39c237c-1f50-416b-806a-1aba36dbe705)
 
+A página inicial, ou tela Home, oferecerá aos usuários a oportunidade de realizar o login, caso já estejam cadastrados, proporcionando uma experiência personalizada desde o início. Além disso, a página apresentará uma seção dinâmica denominada "Ver Categorias", que fornecerá sugestões de temas previamente definidos para cativar a curiosidade do usuário.
 
-A tela Home permitirá que o usuário faça Login caso já seja cadastrado, contará com uma divisão “Explore” que irá sugerir temas pré-definidos e contará com carrosséis que irão mostrar os filmes e 
-séries mais bem avaliados de cada tema a medida que o usuário rola a tela para baixo.
+Dentro dessa seção "Ver Categorias", o design intuitivo apresentará carrosséis envolventes, proporcionando uma jornada visual pelo universo cinematográfico. Cada carrossel será cuidadosamente elaborado para exibir os filmes e séries mais bem avaliados em cada categoria sugerida. Essa abordagem não apenas incentiva a descoberta de conteúdos relevantes, mas também oferece uma experiência visualmente atraente à medida que o usuário percorre a página para baixo.
+
+Dessa forma, a tela Home se torna um ponto de partida acolhedor e informativo, convidando os usuários a explorarem categorias intrigantes e descobrirem os conteúdos mais apreciados em cada uma delas. A navegação fluida e a apresentação visualmente cativante contribuem para uma experiência de usuário envolvente e agradável desde o momento em que acessam a plataforma.
 
 `DESCRIÇÃO`
 ![DESCRIÇAO](https://github.com/ICEI-PUCMinas-PSG-SI-TI/psg-si-2023-02-ti-web-1854101-repfilmes/assets/131774412/f3fd573b-c1d3-4aab-9e13-6835b98ef68d)
 
-Ao clicar em cada filme, será apresentado um card com nome do filme ou série, ano de lançamento, sinopse, nota do IMDB e onde assistir.
+Ao explorar um filme ou série específico, os usuários serão recebidos por um detalhado e informativo card. Este card apresentará de maneira organizada as informações essenciais, proporcionando uma visão abrangente do conteúdo. Incluindo o nome do filme ou série, o ano de lançamento, uma sinopse envolvente para contextualização, a avaliação do IMDB para referência de qualidade e, por fim, indicações claras de onde assistir.
+
+Ao apresentar esses elementos de maneira concisa e acessível, o card oferecerá aos usuários uma visão panorâmica do conteúdo desejado, permitindo-lhes tomar decisões informadas sobre o que assistir. Essa abordagem visa simplificar a experiência do usuário, fornecendo informações cruciais de maneira clara e eficiente, tornando a escolha e a descoberta de novos filmes e séries uma experiência agradável e descomplicada.
 
 `CADASTROS`
 ![Cadastro](https://github.com/ICEI-PUCMinas-PSG-SI-TI/psg-si-2023-02-ti-web-1854101-repfilmes/assets/131774412/c3913adc-4aa1-4b9a-a6e8-aa31d265dcb8)
 
-A tela de cadastro permite que o usuário se cadastre no site e crie seu username
+A página de cadastro oferece aos usuários a oportunidade de se inscreverem no site, proporcionando a criação personalizada de seus usernames. Esse processo é projetado para ser intuitivo e fácil, incentivando os usuários a se tornarem membros da comunidade.
+
+Ao preencher as informações necessárias durante o cadastro, os usuários têm a liberdade de escolher e personalizar seu username, permitindo que expressem sua identidade de maneira única. Essa abordagem não apenas cria uma experiência de registro personalizada, mas também estabelece uma conexão inicial e significativa entre o usuário e a plataforma.
+
+Assim, a tela de cadastro se destaca como uma porta de entrada acolhedora para novos membros, promovendo a participação ativa na comunidade e garantindo que cada usuário se sinta parte integrante do ambiente digital proporcionado pelo site.
 
 `LOGIN`
 ![Login](https://github.com/ICEI-PUCMinas-PSG-SI-TI/psg-si-2023-02-ti-web-1854101-repfilmes/assets/131774412/c70aaa81-ab0a-49b8-af79-09fe7ae08da0)
 
-A tela de login permite que o usuário entre no site pelo seu username
+A página de login proporciona aos usuários a entrada fácil e segura no site, utilizando seu username como uma chave de acesso personalizada. Esse processo simplificado visa garantir uma experiência rápida e eficiente para os usuários, permitindo-lhes acessar facilmente o conteúdo da plataforma.
+
+Ao inserir o username na tela de login, os usuários são conectados de forma direta e segura às suas contas personalizadas. Essa abordagem facilita o acesso à plataforma, eliminando barreiras desnecessárias e garantindo que os usuários possam explorar o conteúdo disponível com rapidez e conveniência.
+
+Dessa forma, a tela de login não apenas representa a porta de entrada para a experiência do usuário, mas também enfatiza a importância da praticidade e da acessibilidade na interação com a plataforma.
 
 `PERFIL`
 ![Perfil](https://github.com/ICEI-PUCMinas-PSG-SI-TI/psg-si-2023-02-ti-web-1854101-repfilmes/assets/131774412/2d7edae2-0369-4396-a96c-472b30eb2c29)
 
-A tela de perfil irá apresentar ao lado esquerdo os dados do usuário, como seu nome de usuário, bio e comentários e avaliações feitas por ele. Ao lado direito, teremos os filmes favoritos do usuário.
+A página de perfil foi cuidadosamente projetada para oferecer uma visão completa e personalizada da experiência do usuário. Ao explorar esta tela, os usuários encontrarão, à esquerda, informações cruciais sobre si mesmos, incluindo o nome de usuário, uma breve bio que adiciona um toque pessoal, e uma seção dedicada aos comentários e avaliações que eles compartilharam na plataforma.
 
+À direita, uma exibição visualmente atraente destaca os filmes favoritos do usuário, proporcionando uma visão instantânea de suas preferências cinematográficas. Essa disposição equilibrada visa criar uma experiência de perfil harmoniosa, onde os detalhes pessoais e as escolhas de entretenimento se complementam de maneira intuitiva.
+
+Ao proporcionar um perfil que abrange tanto informações pessoais quanto preferências cinematográficas, a página de perfil se torna um reflexo autêntico e envolvente da identidade do usuário na plataforma, reforçando a ideia de que cada membro é uma parte significativa da comunidade.
+
+Na seção "Nome de Usuário e Foto", os usuários têm a flexibilidade de modificar seu nome de usuário de acordo com suas preferências. Além disso, a opção de "Trocar Foto de Perfil" possibilita que os usuários atualizem sua imagem de perfil quando desejarem.
 
 `PERFIL COM FAVORITOS`
 ![Perfil](https://github.com/ICEI-PUCMinas-PSG-SI-TI/psg-si-2023-02-ti-web-1854101-repfilmes/assets/131774412/c5298af4-9c2c-4ea2-9847-3cc30fefaa12)
 
-Na tela de perfil irá apresentar ao lado esquerdo os dados do usuário, como seu nome de usuário, bio e comentários e avaliações feitas por ele. Ao lado direito, teremos os filmes favoritos do usuário.
+Na tela de perfil, os detalhes do usuário estão dispostos de maneira clara e organizada. No lado esquerdo, os dados incluem o nome de usuário, uma breve biografia e uma seção dedicada aos comentários e avaliações feitas pelo usuário. À direita, estão exibidos os filmes favoritos, proporcionando uma visão instantânea das preferências cinematográficas do usuário. Essa disposição equilibrada garante uma experiência visual intuitiva e completa ao explorar o perfil do usuário na plataforma.
+
+No que diz respeito aos "Filmes Favoritos", a plataforma apresenta uma área dedicada à "Lista de Favoritos", exibindo de maneira organizada os filmes que o usuário marcou como favoritos. Essa seção proporciona uma visão rápida e acessível dos filmes preferidos do usuário.
 
 `SUGESTÕES`
 ![Sugestão](https://github.com/ICEI-PUCMinas-PSG-SI-TI/psg-si-2023-02-ti-web-1854101-repfilmes/assets/131774412/e91c3a9c-546e-4801-a59c-a930e511718e)
 
-
-A tela de sugestão irá permitir que o usuário cadastrado envie uma sugestão de filme ou série para a curadoria do site.
+A tela de sugestão oferece aos usuários cadastrados a oportunidade de enviar sugestões de filmes ou séries para a curadoria do site. Esse recurso proporciona uma maneira interativa e participativa para os usuários contribuírem com recomendações, enriquecendo a variedade de conteúdos disponíveis na plataforma. Ao fornecer essa funcionalidade, o site incentiva uma comunidade ativa e colaborativa, onde os usuários podem influenciar diretamente as escolhas de conteúdo e contribuir para uma experiência mais diversificada e personalizada.
 
 `COMENTARIOS`
 ![Comentarios](https://github.com/ICEI-PUCMinas-PSG-SI-TI/psg-si-2023-02-ti-web-1854101-repfilmes/assets/131774412/0951f51a-e3f9-4974-98ed-de949a42cd83)
 
-A tela de comentarios irá permitir que o usuário cadastrado envie um comentario de filme ou série para a curadoria do site.
+A tela de comentários proporciona aos usuários cadastrados a oportunidade de enviar seus comentários sobre filmes ou séries para a curadoria do site. Essa função permite que os usuários expressem suas opiniões, fornecendo feedback valioso que pode influenciar a seleção e apresentação de conteúdos na plataforma. Essa abordagem unidirecional, voltada para a curadoria do site, destaca a importância da opinião dos usuários na melhoria contínua da experiência oferecida pelo serviço.
 
 `LANCAMENTOS`
 ![lancamentos](https://github.com/ICEI-PUCMinas-PSG-SI-TI/psg-si-2023-02-ti-web-1854101-repfilmes/assets/131774412/65c7ca2e-9018-4384-b3bb-9d0a647cffd9)
 
 
-A tela de lançamentos irá permitir que o usuário veja lançamentos de filme ou série do site.
+A tela de lançamentos oferece aos usuários a oportunidade de visualizar as novidades em termos de filmes ou séries disponíveis no site. Nessa seção, os usuários podem explorar os lançamentos mais recentes, proporcionando uma experiência atualizada e dinâmica. Essa funcionalidade visa manter os usuários informados sobre as novidades, permitindo que descubram e desfrutem dos conteúdos mais recentes disponíveis na plataforma.
 
 `SOBRE`
 ![sobre](https://github.com/ICEI-PUCMinas-PSG-SI-TI/psg-si-2023-02-ti-web-1854101-repfilmes/assets/131774412/bf43c9a1-18d4-4c06-959e-dcb95776a3b5)
 
-A tela Sobre mostrará a proposta do site.
+A tela "Sobre" apresenta a proposta fundamental do site. Essa seção tem como objetivo proporcionar aos usuários uma compreensão clara da missão e finalidade da plataforma, destacando a proposta central por trás do seu desenvolvimento. Ao visitar essa tela, os usuários poderão obter informações detalhadas sobre o propósito do site, auxiliando na compreensão da visão e objetivos que orientam a experiência proporcionada pela plataforma.
 
 
 
@@ -267,16 +285,15 @@ A tela Sobre mostrará a proposta do site.
 
 # Conclusões
 
-Problema: O problema que buscamos solucionar é a falta de sites organizados e bem elaborados, voltados para séries e filmes, que ofereçam conteúdo educacional diversificado. Por essa razão, decidimos
-criar esse projeto.
+Ao longo das Sprints 1 a 4, nosso projeto evoluiu de maneira significativa, moldando-se para atender de forma mais eficaz e precisa as necessidades do nosso público-alvo. Inicialmente, identificamos a lacuna no mercado de plataformas voltadas para filmes e séries com conteúdo educacional. A falta de sites organizados e abrangentes foi a motivação central para o desenvolvimento desta iniciativa.
 
-Objetivos: Os objetivos deste projeto são desenvolver um site responsivo, com um menu intuitivo, fácil usabilidade para os usuários e ferramentas funcionais.
-Público-alvo: Com base na pesquisa realizada na Sprint 1, identificamos um amplo público-alvo que pode utilizar o site. O principal grupo é composto por pessoas entre 18 e 60 anos, que apreciam 
-assistir a filmes e séries com uma abordagem educativa, visando adquirir ou aprimorar seus conhecimentos.
+Os objetivos delineados incluíram a criação de um site responsivo, intuitivo e funcional, com um menu de fácil navegação. Nosso objetivo é oferecer uma plataforma que permita aos usuários explorar de forma prática e envolvente conteúdo educacional diversificado.
 
-Justificativa: A justificativa para este projeto é a falta de sites bem estruturados e organizados que ofereçam conteúdo educacional diversificado para séries e filmes. Existe uma demanda por uma
-plataforma responsiva e intuitiva, que atenda a um amplo público-alvo interessado em adquirir conhecimentos enquanto assiste a essas mídias. Além disso, a oportunidade de recursos interativos, como
-listas de filmes curtidos e envio de sugestões, aumenta o engajamento dos usuários. Essa solução preenche uma lacuna no mercado, combinando entretenimento e educação em um único lugar.
+A jornada ao longo das Sprints proporcionou uma compreensão mais profunda do nosso público-alvo, que abrange uma faixa etária entre 18 e 60 anos. Esses usuários buscam não apenas entretenimento, mas também conteúdo educacional em filmes e séries para aprimorar seus conhecimentos de maneira acessível e envolvente.
+
+A justificativa para este projeto vai além da simples carência de plataformas estruturadas. Trata-se de uma resposta à demanda por uma experiência completa, integrando entretenimento e aprendizado de forma coesa. Os recursos interativos, como listas de filmes favoritos e sugestões, foram incorporados para promover um engajamento mais profundo e uma experiência personalizada.
+
+Assim, concluímos que este projeto não apenas preenche uma lacuna no mercado, mas também se adapta continuamente para oferecer uma solução que atende de forma dinâmica às expectativas e interesses do nosso público-alvo, proporcionando uma experiência única e enriquecedora.
 
 ## arquivos pdf
 [matriz csd.pdf](https://github.com/ICEI-PUCMinas-PSG-SI-TI/psg-si-2023-02-ti-web-1854101-site-repositorio-de-filmes/files/12709618/matriz.csd.pdf)
