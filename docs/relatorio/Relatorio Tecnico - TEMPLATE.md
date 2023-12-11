@@ -71,24 +71,24 @@ colaborativa e interativa, possibilitando uma experiência verdadeiramente enriq
 
 Além disso, entre os objetivos específicos a serem destacados, temos:
 
-> -Salvar Conteúdo de Interesse: Implementar uma funcionalidade de "Favoritar" que permita aos usuários marcar filmes de seu interesse, facilitando a criação de listas personalizadas e o retorno a
-> conteúdos relevantes.
+•Salvar Conteúdo de Interesse: Implementar uma funcionalidade de "Favoritar" que permita aos usuários marcar filmes de seu interesse, facilitando a criação de listas personalizadas e o retorno a
+ conteúdos relevantes.
 
-> -Comentar e Dar Sugestões para Conteúdos: Introduzir uma seção de comentários e sugestões, incentivando a interação entre os usuários para que possam compartilhar insights sobre o conteúdo educativo.
+•Comentar e Dar Sugestões para Conteúdos: Introduzir uma seção de comentários e sugestões, incentivando a interação entre os usuários para que possam compartilhar insights sobre o conteúdo educativo.
 
-> -Filtrar por Categorias Dinâmicas: Desenvolver um sistema de categorização inteligente, utilizando algoritmos para filtrar as categorias às preferências e interesses dos usuários, simplificando assim
->  a pesquisa.
+•Filtrar por Categorias Dinâmicas: Desenvolver um sistema de categorização inteligente, utilizando algoritmos para filtrar as categorias às preferências e interesses dos usuários, simplificando assim
+a pesquisa.
 
-> -Explorar Lançamentos com Gráficos Interativos: Apresentar informações sobre os lançamentos de forma visualmente atrativa, por meio de gráficos interativos que destacam tendências e facilitam a
->  identificação de novidades dentro do repositório.
+•Explorar Lançamentos com Gráficos Interativos: Apresentar informações sobre os lançamentos de forma visualmente atrativa, por meio de gráficos interativos que destacam tendências e facilitam a   
+identificação de novidades dentro do repositório.
 
-> -Fornecer Informações Detalhadas: Além das sinopses, incluir detalhes como avaliações de outros usuários, informações sobre a equipe de produção e a sua avaliação MBTI, proporcionando uma visão
-> completa e informada para os interessados.
+•Fornecer Informações Detalhadas: Além das sinopses, incluir detalhes como avaliações de outros usuários, informações sobre a equipe de produção e a sua avaliação MBTI, proporcionando uma visão
+ completa e informada para os interessados.
 
 Ao incorporar esses objetivos aprimorados, visamos não apenas fornecer uma fonte centralizada de filmes educativos, mas também criar um ecossistema colaborativo e interativo que atenda às necessidades
 específicas de um público diversificado, fomente o trabalho em grupo e promova uma experiência mais rica e envolvente para todos os envolvidos no processo.
 
-Justificativa:
+#Justificativa:
 
 A integração de filmes como ferramenta complementar de ensino é uma prática cada vez mais difundida em diversas instituições de ensino. Essas produções cinematográficas são empregadas com o intuito de 
 aprofundar a compreensão dos estudantes em relação a conceitos e tópicos abordados em sala de aula. No entanto, a busca por filmes educativos pertinentes representa um desafio considerável, sobretudo
@@ -115,20 +115,19 @@ acessível e abrangente para atender às necessidades específicas de cada segme
 
 ## Personas
 
-Isabella - A Aventureira Informada
-
+•Isabella - A Aventureira Informada
 Idade: 24
 Gênero Cinematográfico Preferido: Aventura
 Descrição: Isabella é uma jovem de 24 anos que busca filmes que ofereçam uma mistura única de informações úteis e aventuras emocionantes. Sua paixão por experiências desafiadoras a torna uma espectadora 
 ávida por narrativas envolventes que explorem temas informativos de maneira dinâmica.
-Lucas - O Detetive Curioso
 
+•Lucas - O Detetive Curioso
 Idade: 20
 Gênero Cinematográfico Preferido: Mistério
 Descrição: Lucas, aos 20 anos, é um entusiasta por séries que proporcionam informações e desafios de mistério. Sua busca por enigmas e intrigas o define como uma pessoa curiosa e analítica, sempre em
 busca de narrativas que explorem os recantos da mente humana e da ciência.
-Sofia - A Romântica Versátil
 
+•Sofia - A Romântica Versátil
 Idade: 29
 Gênero Cinematográfico Preferido: Romance
 Descrição: Sofia, aos 29 anos, valoriza conteúdos informativos, mas sua preferência recai sobre documentários e histórias românticas. Sua abordagem equilibrada entre aprendizado e entretenimento a torna
