@@ -36,30 +36,57 @@
   
 # Introdução
 
-A incorporação de filmes e séries como complementos aos processos de aprendizado é uma maneira fascinante e agradável de abrir as portas do conhecimento para os estudantes. Isso, de forma alguma,
-substitui o valioso papel desempenhado pelos educadores, pela leitura de livros e por outros métodos de estudo; ao contrário, eles atuam como parceiros enriquecedores. Esse recurso se revela 
-especialmente valioso ao explorar momentos históricos e questões sociais, proporcionando uma compreensão mais profunda.
+A integração de filmes e séries como complementos aos processos educacionais revela-se uma abordagem fascinante e agradável para abrir as portas do conhecimento aos estudantes. Essa estratégia, longe de
+pretender substituir o papel inestimável dos educadores, da leitura de livros e de outros métodos tradicionais de estudo, atua como um parceiro enriquecedor, proporcionando uma experiência educativa 
+mais envolvente e contextualizada. Em particular, quando exploramos momentos históricos e questões sociais, essa forma de aprendizado oferece uma compreensão mais profunda e imersiva.
 
-Contudo, é notório que esses conteúdos frequentemente encontram-se dispersos e desordenados pela vastidão da internet, dificultando tanto o acesso quanto a utilização, tanto para estudantes ávidos por
-conhecimento quanto para profissionais em busca de atualização ou simplesmente curiosos. Diante dessa realidade, surge a necessidade de criar um repositório organizado e criterioso, que reúna e filtre
-esses recursos, tornando-os mais acessíveis e prontamente aplicáveis para todos que desejam enriquecer sua jornada de aprendizado de forma dinâmica e eficaz.
+No entanto, é inegável que esses valiosos conteúdos muitas vezes estão dispersos e desordenados pela vastidão da internet, o que dificulta tanto o acesso quanto a utilização desses recursos. Essa 
+fragmentação representa um desafio significativo para estudantes ávidos por conhecimento, profissionais em busca de atualização e até mesmo curiosos em geral. Diante dessa realidade, surge a imperiosa 
+necessidade de estabelecer um repositório organizado e criterioso, cujo propósito seja reunir e filtrar esses recursos, tornando-os mais acessíveis e prontamente aplicáveis para todos que desejam 
+enriquecer sua jornada de aprendizado de maneira dinâmica e eficaz. Essa iniciativa não apenas simplifica o acesso a conhecimentos valiosos, mas também otimiza a utilização desses recursos, contribuindo
+assim para um aprendizado mais eficiente e enriquecedor.
 
 
 ## Problema
 
-O desafio que enfrentamos com este projeto reside na caótica dispersão desses conteúdos pela internet, onde frequentemente carecem de filtros de qualidade e se encontram fragmentados, tornando árdua a
-tarefa de acessar e localizar informações pertinentes e valiosas.
+O desafio central que enfrentamos neste projeto reside na notável ausência de repositórios organizados e acessíveis para filmes na vastidão da internet, impactando diretamente estudantes, profissionais 
+em atuação em diversas áreas e até mesmo indivíduos movidos pela simples curiosidade. A carência de plataformas centralizadas e estruturadas torna especialmente difícil para esses grupos encontrar 
+filmes relevantes de maneira eficiente.
+
+Para estudantes, a busca por materiais audiovisuais educativos muitas vezes é frustrante, pois a falta de uma referência organizada dificulta a localização de filmes que possam enriquecer seus estudos.
+Profissionais atuantes, em constante busca por atualização e aprimoramento, enfrentam desafios semelhantes ao tentar encontrar conteúdo relevante em meio à desorganização virtual. Mesmo para aqueles 
+movidos pela simples curiosidade, a falta de uma plataforma centralizada representa um obstáculo considerável na descoberta de filmes interessantes.
+
+Nesse vasto oceano virtual, a inexistência de um ponto focal para encontrar repositórios de filmes não apenas prejudica a experiência do usuário, mas também limita o acesso a recursos cinematográficos
+valiosos que poderiam enriquecer diferentes áreas de interesse.
+
+Portanto, o âmago do problema transcende a mera dificuldade de navegação; impacta diretamente a capacidade de estudantes, profissionais e entusiastas curiosos de encontrar, de maneira eficaz, conteúdos
+cinematográficos relevantes para suas necessidades específicas. Ao abordar essa lacuna, desenvolvendo estratégias que tornem a busca por filmes mais intuitiva, acessível e satisfatória, podemos fornecer
+uma solução valiosa para aqueles que buscam enriquecer sua experiência cinematográfica na vasta paisagem digital.
 
 ## Objetivos
 
-O propósito principal deste projeto é estabelecer um repositório de filmes educativos que concentre, estruture e depure o conteúdo atualmente disperso pela internet, proporcionando uma única fonte de 
-acesso a esse tipo de material. Além disso, entre os objetivos específicos a serem destacados, temos:
+O propósito central deste projeto é criar um repositório de filmes educativos que não apenas concentre, estruture e depure o conteúdo atualmente disperso pela internet, mas também promova uma visão 
+colaborativa e interativa, possibilitando uma experiência verdadeiramente enriquecedora e de trabalho em grupo.
 
-. Capacitar o usuário a avaliar o conteúdo.
+Além disso, entre os objetivos específicos a serem destacados, temos:
 
-. Oferecer informações abrangentes sobre os filmes, como sinopse, avaliações de outros usuários e disponibilidade para assistir.
+> -Salvar Conteúdo de Interesse: Implementar uma funcionalidade de "Favoritar" que permita aos usuários marcar filmes de seu interesse, facilitando a criação de listas personalizadas e o retorno a
+> conteúdos relevantes.
 
-. Classificar o conteúdo em categorias para simplificar a pesquisa do usuário.
+> -Comentar e Dar Sugestões para Conteúdos: Introduzir uma seção de comentários e sugestões, incentivando a interação entre os usuários para que possam compartilhar insights sobre o conteúdo educativo.
+
+> -Filtrar por Categorias Dinâmicas: Desenvolver um sistema de categorização inteligente, utilizando algoritmos para filtrar as categorias às preferências e interesses dos usuários, simplificando assim
+>  a pesquisa.
+
+> -Explorar Lançamentos com Gráficos Interativos: Apresentar informações sobre os lançamentos de forma visualmente atrativa, por meio de gráficos interativos que destacam tendências e facilitam a
+>  identificação de novidades dentro do repositório.
+
+> -Fornecer Informações Detalhadas: Além das sinopses, incluir detalhes como avaliações de outros usuários, informações sobre a equipe de produção e a sua avaliação MBTI, proporcionando uma visão
+> completa e informada para os interessados.
+
+Ao incorporar esses objetivos aprimorados, visamos não apenas fornecer uma fonte centralizada de filmes educativos, mas também criar um ecossistema colaborativo e interativo que atenda às necessidades
+específicas de um público diversificado, fomente o trabalho em grupo e promova uma experiência mais rica e envolvente para todos os envolvidos no processo.
 
 Justificativa:
 
@@ -76,41 +103,41 @@ Isso tornaria o processo de encontrar e utilizar esses recursos uma experiência
 
 ## Público-Alvo
 
-Este projeto tem como público-alvo uma ampla gama de pessoas, incluindo estudantes, profissionais atuantes em diversas áreas e até mesmo pessoas que possuem simples curiosidade sobre os temas 
-abordados. Sendo assim, o público-alvo é bastante diverso e abrange desde alunos do ensino médio até profissionais experientes no mercado de trabalho, incluindo homens e mulheres de todas as idades, 
-desde jovens com 18 anos até idosos com mais de 60 anos.
+Este projeto visa atender a uma audiência diversificada e dinâmica, composta por estudantes em diferentes níveis de ensino, profissionais atuantes em diversas áreas e entusiastas curiosos em busca de 
+conteúdos cinematográficos relevantes. Dessa forma, o público-alvo abrange desde estudantes do ensino médio até profissionais experientes, contemplando homens e mulheres de todas as faixas etárias, 
+desde jovens a partir de 18 anos até adultos maduros com mais de 60 anos.
+
+A segmentação abrangente destaca a amplitude do nosso alcance, incluindo aqueles que buscam apoio educacional, profissionais interessados em atualização e aprimoramento, e até mesmo os curiosos que 
+desejam explorar novas perspectivas por meio do universo cinematográfico. Essa diversidade de público reflete a universalidade do interesse em filmes e destaca a importância de oferecer uma plataforma 
+acessível e abrangente para atender às necessidades específicas de cada segmento dentro dessa audiência vasta e variada.
  
 # Especificações do Projeto
 
 ## Personas
 
-1) Nome: Isabella
-   
+Isabella - A Aventureira Informada
+
 Idade: 24
+Gênero Cinematográfico Preferido: Aventura
+Descrição: Isabella é uma jovem de 24 anos que busca filmes que ofereçam uma mistura única de informações úteis e aventuras emocionantes. Sua paixão por experiências desafiadoras a torna uma espectadora 
+ávida por narrativas envolventes que explorem temas informativos de maneira dinâmica.
+Lucas - O Detetive Curioso
 
-Gosta de filmes com intuito informativo e seu principal gênero é aventura.
-
-Isabella é uma jovem de 24 anos que aprecia filmes que ofereçam informações úteis e, ao mesmo tempo, proporcionem aventuras empolgantes. Seu gênero preferido é aventura, demonstrando sua paixão por
-experiências emocionantes e desafios. Ela é uma pessoa curiosa e destemida, sempre em busca de conhecimento e emoção em suas escolhas cinematográficas.
-
-3) Nome: Lucas
-   
 Idade: 20
+Gênero Cinematográfico Preferido: Mistério
+Descrição: Lucas, aos 20 anos, é um entusiasta por séries que proporcionam informações e desafios de mistério. Sua busca por enigmas e intrigas o define como uma pessoa curiosa e analítica, sempre em
+busca de narrativas que explorem os recantos da mente humana e da ciência.
+Sofia - A Romântica Versátil
 
-Gosta de séries com intuito informativo e seu gênero preferido é mistério.
-
-Lucas tem 20 anos e se interessa por séries que tragam informações e mistérios intrigantes. Seu gênero favorito é o mistério, revelando sua busca por enigmas e desvendamentos. Ele é uma pessoa curiosa,
-analítica e fascinada pelo desconhecido, sempre disposto a explorar as profundezas da mente humana e da ciência.
-
-5) Nome: Sofia
-   
 Idade: 29
+Gênero Cinematográfico Preferido: Romance
+Descrição: Sofia, aos 29 anos, valoriza conteúdos informativos, mas sua preferência recai sobre documentários e histórias românticas. Sua abordagem equilibrada entre aprendizado e entretenimento a torna
+uma espectadora flexível e aberta a novas experiências, sempre disposta a explorar diferentes formas de conhecimento e diversão.
 
-Gosta de conteúdos informativos, mas não é sua prioridade; prefere documentários e seu gênero preferido é romance.
 
-Sofia é uma mulher de 29 anos que valoriza conteúdos informativos, mas, em sua maioria, opta por documentários e programas que tragam histórias românticas. Ela pode ser descrita como uma pessoa
-equilibrada, que aprecia tanto o aprendizado quanto o entretenimento, mas que tem um gosto especial por histórias de amor e conexões emocionais. Sofia é flexível e aberta a novas experiências, sempre
-disposta a explorar diferentes formas de conhecimento e diversão.
+Ao incrementar as personas, buscamos destacar características específicas de cada perfil, como preferências cinematográficas, atitudes em relação ao aprendizado e a busca por experiências únicas. Estas
+personas visam oferecer uma visão mais rica e detalhada das expectativas e interesses de cada público-alvo, contribuindo para uma abordagem mais personalizada e eficaz no desenvolvimento do repositório
+de filmes educativos.
  
 
 ## Histórias de Usuários
