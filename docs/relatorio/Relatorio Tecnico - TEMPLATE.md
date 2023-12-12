@@ -279,8 +279,7 @@ A tela "Sobre" apresenta a proposta fundamental do site. Essa seção tem como o
 ## Mapa de navegação
 
 > **Diagrama (FLUXO DE TELAS)**
-
-![FLUXO](https://github.com/ICEI-PUCMinas-PSG-SI-TI/psg-si-2023-02-ti-web-1854101-site-repositorio-de-filmes/assets/131774412/be174041-d002-4984-9605-340a0bd61aab)
+![FLUXO3](https://github.com/ICEI-PUCMinas-PSG-SI-TI/psg-si-2023-02-ti-web-1854101-repfilmes/assets/131774412/217b2f69-8ad3-4abe-937f-81f58f0155a9)
 
 
 # Conclusões
