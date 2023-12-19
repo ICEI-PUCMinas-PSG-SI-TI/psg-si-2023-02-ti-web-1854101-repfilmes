@@ -1,0 +1,182 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Repositório de Filmes</title>
+    <link rel="stylesheet" id="styles" href="style.css">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css">
+    <link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Dancing+Script:wght@500&family=Montserrat:ital,wght@1,200&family=PT+Sans+Narrow:wght@700&family=Poppins:wght@700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Black+Ops+One&family=Dancing+Script:wght@500&family=Montserrat:ital,wght@1,200&family=PT+Sans+Narrow:wght@700&family=Poppins:wght@700&display=swap" rel="stylesheet">     
+    <link href="https://fonts.googleapis.com/css2?family=Black+Ops+One&family=Dancing+Script:wght@500&family=Montserrat:ital,wght@1,200&family=PT+Sans+Narrow:wght@700&family=Poppins:wght@700&family=Teko:wght@600&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Alfa+Slab+One&family=Black+Ops+One&family=Dancing+Script:wght@500&family=Montserrat:ital,wght@1,200&family=PT+Sans+Narrow:wght@700&family=Poppins:wght@700&family=Teko:wght@600&display=swap" rel="stylesheet">
+
+</head>
+<body>
+
+
+      <header>
+          <div class="header-mobile">
+            <div class="Title">
+              <h1>
+               <span class="REP">REP</span><span class="Films">Films</span></h1>
+
+            </div>
+          </div>
+        <nav>
+        <div class="nav-links" id="navLinks">
+          <i class="fa fa-times" onclick="hideMenu()"></i>
+          <ul>
+            <li><a href="../Home/Home logado.html"><b>Home</b></a></li>
+            <li><a href="../Tela PERFIL/perfil.html"><b>perfil</b></a></li>
+            <li><a href="../Filmes/html/Filmes.html"><b>Filmes</b></a></li>
+           <li><a href="../Series/html/Series.html"><b>Series</b></a></li>
+           <li><a href="../tela de comentários/comentarios.html"><b>Comentarios</b></a></li>
+           <li><a href="../sugestoes tela/sugestao.html"><b>Sugestão</b></a></li>
+           <li><a href="../lancamentos/lançamentos.html"><b>Lançamentos</b></a></li>
+           <li><a href="../sobre/sobre.html"><b>Sobre</b></a></li>
+          </ul>
+        </div>
+        <i class="fa fa-bars" onclick="showMenu()"></i>
+        </nav>
+
+      </header>
+
+
+
+
+
+
+
+
+
+
+<div class="text-box">
+    <h1>LANÇAMENTOS</h1>
+
+
+    <div class="countdown">
+        <h2>Próximos Filmes Altamente Antecipados</h2>
+        <div id="countdown-timers"></div>
+    </div>
+
+
+
+    <label for="filtro" id="w2">Filtrar por Gênero:</label>
+    <select id="filtro" onchange="filtrarLancamentos()">
+        <option value="todos">Todos</option>
+        <option value="acao">Ação</option>
+        <option value="comedia">Comédia</option>
+        <option value="drama">Drama</option>
+    </select>
+<br>
+    <label for="faixa-etaria">Filtar por faixa etária:</label>
+<select id="faixa-etaria" onchange="filtrarPorFaixaEtaria()">
+    <option value="todos">Todos</option>
+    <option value="10+">10+</option>
+    <option value="14+">14+</option>
+    <option value="16+">16+</option>
+    <option value="18+">18+</option>
+</select>
+
+</div>
+
+
+<div class="card-container">
+    <div class="card">
+        <div class="layer">
+            <button onclick="openModal('titulo', 'descricao')">
+            </button>
+        </div>
+    </div>
+</div>
+
+        <div id="modal" class="modal">
+            <div class="modal-content">
+              <span class="close" onclick="closeModal()">&times;</span>
+              <h2 id="modal-title"></h2>
+              <p id="modal-description"></p>
+            </div>
+          </div>
+
+        <footer class="footer">
+            <div class="container">
+                <div class="row">
+                    <div class="footer-col">
+                        <h4>REPfilms</h4>
+                        <ul>
+                            <li><a href="#">Home</a></li>
+                            <li><a href="#">Perfil</a></li>
+                            <li><a href="#">Cadastro</a></li>
+                            <li><a href="#">Sugestão</a></li>
+                            <li><a href="$">Sobre</a></li>
+                        </ul>
+                    </div>
+                    <div class="footer-col">
+                            <h4>Contato</h4>
+                        <ul>
+                            <li><p>Endereço: Puc Minas</p></li>
+                            <li><p>email: @pucminas.br</p></li>
+                            <li><p>Telefone: (+55) 31 99434-5678</p></li>
+                            <li><p>©  2023 . Todos os direitos reservados.</p></li>
+                        </ul>
+
+                    </div>
+                    <div class="footer-col">
+                        <h4>Links</h4>
+                        <div class="social-links">
+                            <a href="#"><i class="fab fa-facebook-f"></i></a>
+                            <a href="#"><i class="fab fa-twitter"></i></a>
+                            <a href="#"><i class="fab fa-instagram"></i></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+       </footer>
+
+
+
+<script>
+
+    var navLinks = document.getElementById("navLinks")
+    function showMenu(){
+        navLinks.style.left = "0";
+    }
+    function hideMenu(){
+        navLinks.style.left = "-200px";
+    }
+</script>
+
+
+
+<script src="script.js"></script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</body>
+</html>

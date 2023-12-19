@@ -1,0 +1,207 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Repositório de Filmes</title>
+    <link rel="stylesheet" id="styles" href="style.css">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css">
+    <link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Dancing+Script:wght@500&family=Montserrat:ital,wght@1,200&family=PT+Sans+Narrow:wght@700&family=Poppins:wght@700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Black+Ops+One&family=Dancing+Script:wght@500&family=Montserrat:ital,wght@1,200&family=PT+Sans+Narrow:wght@700&family=Poppins:wght@700&display=swap" rel="stylesheet">     
+    <link href="https://fonts.googleapis.com/css2?family=Black+Ops+One&family=Dancing+Script:wght@500&family=Montserrat:ital,wght@1,200&family=PT+Sans+Narrow:wght@700&family=Poppins:wght@700&family=Teko:wght@600&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Alfa+Slab+One&family=Black+Ops+One&family=Dancing+Script:wght@500&family=Montserrat:ital,wght@1,200&family=PT+Sans+Narrow:wght@700&family=Poppins:wght@700&family=Teko:wght@600&display=swap" rel="stylesheet">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+
+</head>
+<body>
+
+
+      <header>
+          <div class="header-mobile">
+            <div class="Title">
+              <h1>
+               <span class="REP">REP</span><span class="Films">Films</span></h1>
+
+            </div>
+          </div>
+        <nav>
+        <div class="nav-links" id="navLinks">
+          <i class="fa fa-times" onclick="hideMenu()"></i>
+          <ul>
+            <li><a href="../Home/Home logado.html"><b>Home</b></a></li>
+            <li><a href="../Tela PERFIL/perfil.html"><b>perfil</b></a></li>
+            <li><a href="../Filmes/html/Filmes.html"><b>Filmes</b></a></li>
+           <li><a href="../Series/html/Series.html"><b>Series</b></a></li>
+           <li><a href="../tela de comentários/comentarios.html"><b>Comentarios</b></a></li>
+           <li><a href="../sugestoes tela/sugestao.html"><b>Sugestão</b></a></li>
+           <li><a href="../lancamentos/lançamentos.html"><b>Lançamentos</b></a></li>
+           <li><a href="../sobre/sobre.html"><b>Sobre</b></a></li>
+          </ul>
+        </div>
+        <i class="fa fa-bars" onclick="showMenu()"></i>
+        </nav>
+      </header>
+
+      <div class="text-box">
+        <h1>SOBRE NÓS</h1>
+    
+    </div>
+
+
+    <div class="container10">
+        <div class="container1">
+            <div class="news-section">
+                <h2>Notícias de Cinema</h2>
+                <ul id="news-list"></ul>
+            </div>
+        </div>
+        <div class="container2">
+            <h1>Estatísticas e Gráficos</h1>
+            <canvas id="movies-chart"></canvas>
+
+
+
+            <div class="gamification-section">
+                <h2>Sistema de Gamificação</h2>
+                <p><br>Parabéns! Você avaliou 20 filmes e ganhou o distintivo "Crítico Amador".</p>
+                <button id="claim-badge-button">Reivindicar Prêmio</button>
+                <p><br><br>Parabéns! Você assistiu 50 filmes e ganhou o distintivo "Cinéfilo".</p>
+                <button id="claim-badge-button2">Reivindicar Prêmio</button>
+            </div>
+
+            
+        </div>
+
+
+    </div>
+
+
+    <div class="container5">
+        <div class="container3">
+            <h1>Legalidade e Direitos Autorais</h1>
+            <div class="content">
+                <p>Este site respeita rigorosamente as regulamentações de direitos autorais. Todo o conteúdo de filmes fornecido neste site é legal e foi obtido de fontes legítimas.</p>
+                <p>Os filmes disponíveis neste site são de domínio público, licenciados para distribuição gratuita ou disponibilizados com a permissão adequada dos detentores dos direitos autorais.</p>
+                <p>Se você acredita que algum conteúdo viola seus direitos autorais, por favor, entre em contato conosco imediatamente para que possamos resolver a situação.</p>
+                <p>Para mais informações ou para relatar problemas relacionados a direitos autorais, entre em contato pelo email: <strong>@PucMinas.br</strong>.</p>
+                <button class="open-modal-button" onclick="openModal('politica-privacidade')">Política de Privacidade</button>
+    <button class="open-modal-button" onclick="openModal('termos-de-uso')">Termos de Uso</button>
+
+    <div id="politica-privacidade-modal" class="modal">
+        <div class="modal-content">
+            <span class="close-modal" onclick="closeModal('politica-privacidade')">&times;</span>
+            <h1>Política de Privacidade</h1>
+        <p>A sua privacidade é importante para nós. É política do nosso site respeitar a sua privacidade em relação a qualquer informação sua que possamos coletar no site.</p>
+        <h2>Informações que coletamos</h2>
+        <p>Nós não coletamos informações pessoais identificáveis. As informações que coletamos são usadas apenas para analisar tendências, administrar o site, rastrear os movimentos dos usuários no site e coletar informações demográficas amplas para uso interno. Nenhuma dessas informações pode ser usada para identificar identidades individuais.</p>
+        </div>
+    </div>
+
+    <div id="termos-de-uso-modal" class="modal">
+        <div class="modal-content">
+            <span class="close-modal" onclick="closeModal('termos-de-uso')">&times;</span>
+            <h1>Termos de Uso</h1>
+            <h2>1. Aceitação dos Termos</h2>
+        <p>Ao acessar este site, você concorda em cumprir estes Termos de Uso, todas as leis e regulamentos aplicáveis e concorda que você é responsável pelo cumprimento de todas as leis locais aplicáveis.</p>
+        <h2>2. Uso Licenciado</h2>
+        <p>É concedida permissão para baixar temporariamente uma cópia dos materiais (informações ou software) no nosso site para visualização transiente pessoal e não comercial. Esta é a concessão de uma licença, não uma transferência de título, e sob esta licença você não pode:</p>
+        <ul>
+            <li>Modificar ou copiar os materiais;</li>
+            <li>Usar os materiais para qualquer finalidade comercial ou para exibição pública (comercial ou não comercial);</li>
+            <li>Tentar descompilar ou fazer engenharia reversa de qualquer software contido no nosso site;</li>
+            <li>Remover quaisquer direitos autorais ou outras notações de propriedade dos materiais; ou</li>
+            <li>Transferir os materiais para outra pessoa ou 'espelhe' os materiais em qualquer outro servidor.</li>
+        </ul>
+        </div>
+    </div>
+            </div>
+        </div>
+    
+        <div class="container6">
+            <h1>Central de Ajuda e Suporte</h1>
+            <div class="faq">
+                <h2>Perguntas Frequentes (FAQ)</h2>
+                <ul id="faq-list"></ul>
+            </div>
+            <div class="support">
+                <h2>Abra um Ticket de Suporte</h2>
+                <form id="support-form">
+                    <label for="issue">Descrição do Problema:</label>
+                    <textarea id="issue" name="issue" rows="4" required></textarea>
+                    <button type="submit">Enviar</button>
+                </form>
+            </div>
+            <div class="ticket-list">
+                <h2>Tickets de Suporte</h2>
+                <ul id="ticket-list"></ul>
+            </div>
+        </div>
+    </div>
+    
+
+
+
+
+
+
+
+   
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+        <footer class="footer">
+            <div class="container">
+                <div class="row">
+                    <div class="footer-col">
+                        <h4>REPfilms</h4>
+                        <ul>
+                            <li><a href="../Home/Home logado.html"><b>Home</b></a></li>
+                            <li><a href="../Tela PERFIL/perfil.html"><b>perfil</b></a></li>
+                            <li><a href="../Filmes/html/Filmes.html"><b>Filmes</b></a></li>
+                           <li><a href="../Series/html/Series.html"><b>Series</b></a></li>
+                           <li><a href="../tela de comentários/comentarios.html"><b>Comentarios</b></a></li>
+                           <li><a href="../sugestoes tela/sugestao.html"><b>Sugestão</b></a></li>
+                           <li><a href="../lancamentos/lançamentos.html"><b>Lançamentos</b></a></li>
+                           <li><a href="../sobre/sobre.html"><b>Sobre</b></a></li>
+                        </ul>
+                    </div>
+                    <div class="footer-col">
+                            <h4>Contato</h4>
+                        <ul>
+                            <li><p>Endereço: Puc Minas</p></li>
+                            <li><p>email: @pucminas.br</p></li>
+                            <li><p>Telefone: (+55) 31 99434-5678</p></li>
+                            <li><p>©  2023 . Todos os direitos reservados.</p></li>
+                        </ul>
+
+                    </div>
+                    <div class="footer-col">
+                        <h4>Links</h4>
+                        <div class="social-links">
+                            <a href="#"><i class="fab fa-facebook-f"></i></a>
+                            <a href="#"><i class="fab fa-twitter"></i></a>
+                            <a href="#"><i class="fab fa-instagram"></i></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+       </footer>
+<script src="script.js"></script>
+
+</body>
+</html>
